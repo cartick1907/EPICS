@@ -1,0 +1,4 @@
+record(sub, testVal) {
+field(SNAM, testProc)
+field(SCAN, "1 second")
+}

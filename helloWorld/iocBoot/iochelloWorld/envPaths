@@ -1,0 +1,3 @@
+epicsEnvSet("IOC","iochelloWorld")
+epicsEnvSet("TOP","/home/kartik/Apps/epics/helloWorld")
+epicsEnvSet("EPICS_BASE","/usr/local/epics/base")
