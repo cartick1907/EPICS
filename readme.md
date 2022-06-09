@@ -12,4 +12,7 @@ Steps to install epics in your system (ubuntu 22.04/20.04)
 
 4)Run the epics_install script  
 	```$ ./epics_install.sh```  
+
+If terminal shows bash unary operator error, run
+	```$ sed -i 's/ = / "" = /g' ~/.bash_aliases```  
 	
